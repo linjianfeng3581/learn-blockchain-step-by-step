@@ -21,7 +21,7 @@
 
 ## 区块链平台：
 * [Ethereum](https://www.ethereum.org/) 
-* [Openchain] (https://www.openchain.org/)
+* [Openchain](https://www.openchain.org/)
 * [Hyperledger](https://www.hyperledger.org/) 
 * [Multichain](http://www.multichain.com/) 
 * [GCOIN](http://g-coin.org/learn.html) 
